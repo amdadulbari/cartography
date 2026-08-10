@@ -54,4 +54,5 @@ modules/trivy/index
 modules/vercel/index
 modules/workday/index
 modules/workos/index
+modules/zizmor/index
 ```
